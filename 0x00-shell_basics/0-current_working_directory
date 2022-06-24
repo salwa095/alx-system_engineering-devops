@@ -1,2 +1,3 @@
 #!/bin/bash
-this file is the current working directory
+$ wc -l file
+
