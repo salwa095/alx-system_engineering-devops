@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE="642" | cat -e
+export TRUEKNOWLEDGE="256" | cat -e
